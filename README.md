@@ -81,5 +81,5 @@
 ---
 
 <p align="center">
-✨ “Thanks for passing by” ✨
+✨ Thanks for passing by ✨
 </p>
