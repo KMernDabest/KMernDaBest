@@ -21,30 +21,19 @@
 
 ## 🚀 Tech Stack
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
-
-### 🧰 Tools & Others
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
+</p>
 
 ---
 
