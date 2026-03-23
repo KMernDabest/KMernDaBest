@@ -30,6 +30,10 @@
   <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/JavaFX-darkgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
