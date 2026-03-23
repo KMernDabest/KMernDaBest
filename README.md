@@ -65,6 +65,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KMernDaBest&theme=tokyonight" />
 </p>
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMernDaBest&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📫 Contact Me
