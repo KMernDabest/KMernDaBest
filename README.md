@@ -81,5 +81,5 @@
 ---
 
 <p align="center">
-✨ “Building practical solutions with clean and efficient code.” ✨
+✨ “Thanks for passing by” ✨
 </p>
