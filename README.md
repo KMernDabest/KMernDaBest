@@ -21,15 +21,35 @@
 
 ## 🚀 Tech Stack
 
+### 📱 Mobile Development
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+</p>
+
+### 🗄️ Database
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+</p>
+
+### 🧰 Tools & Others
+<p align="center">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
