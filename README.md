@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=400&lines=Welcome,+visitor!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Welcome,+visitor!" />
 </p>
 
 <h1 align="center">Hi, I'm Rith Seyhak</h1>
