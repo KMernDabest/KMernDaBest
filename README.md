@@ -23,6 +23,14 @@
 
 ---
 
+## 🌐 Portfolio
+
+Curious about my work? Take a look at my personal portfolio to see my latest projects, experience, and more!
+
+👉 **[Portfolio](https://r-seyhak.vercel.app/)**
+
+---
+
 ## 🚀 Tech Stack
 
 <p align="center">
