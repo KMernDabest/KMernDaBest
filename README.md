@@ -1,22 +1,22 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Welcome,+visitor!" /> </p> 
+<div align="center" width="100%">
+  <img src="https://media.tenor.com/8wCzLne7dEMAAAAj/weird.gif" width="115" align="right"/>
+  <img src="https://media.tenor.com/JDIoEbvef5kAAAAj/kurukuru-herta.gif" width="115" align="left"/>
 
-<h1 align="center">Hi, I'm Rith Seyhak</h1> 
-<h3 align="center">Software Developer Intern | Computer Science Student</h3> 
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Welcome,+visitor!" />
+  </p>
+  
+  <h1 align="center">Hi, I'm Rith Seyhak</h1>
+  <h3 align="center">Software Developer Intern | Computer Science Student</h3>
 
-<p align="center"> 📍 Phnom Penh, Cambodia <br> 💻 Passionate about building mobile & web applications 
-<br> 
-🚀 Always learning and exploring new technologies 
-</p>
+  <p align="center">
+  📍 Phnom Penh, Cambodia <br>
+  💻 Passionate about building mobile & web applications <br>
+  🚀 Always learning and exploring new technologies
+  </p>
+</div>
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Computer Science student  
-- 📱 Focused on **Flutter & Full Stack Development**  
-- 🛠️ Love building real-world applications  
-- 🌱 Currently improving my backend & system design skills  
-- 🤝 Open to internship opportunities and collaboration  
+<br clear="both">
 
 ---
 
