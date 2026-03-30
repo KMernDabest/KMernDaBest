@@ -1,35 +1,12 @@
-<table width="100%">
-<tr>
-<td align="left" width="25%">
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Welcome,+visitor!" /> </p> 
 
-<img src="https://tenor.com/u1E1T7rexZ9.gif" width="180"/>
+<h1 align="center">Hi, I'm Rith Seyhak</h1> 
+<h3 align="center">Software Developer Intern | Computer Science Student</h3> 
 
-</td>
-
-<td align="center" width="50%">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Welcome,+visitor!" />
+<p align="center"> 📍 Phnom Penh, Cambodia <br> 💻 Passionate about building mobile & web applications 
+<br> 
+🚀 Always learning and exploring new technologies 
 </p>
-
-<h1 align="center">Hi, I'm Rith Seyhak</h1>
-<h3 align="center">Software Developer Intern | Computer Science Student</h3>
-
-<p align="center">
-📍 Phnom Penh, Cambodia <br>
-💻 Passionate about building mobile & web applications <br>
-🚀 Always learning and exploring new technologies
-</p>
-
-</td>
-
-<td align="right" width="25%">
-
-<img src="https://tenor.com/tsKOpljZnrP.gif" width="180"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
