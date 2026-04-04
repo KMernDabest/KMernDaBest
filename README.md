@@ -35,10 +35,13 @@ Curious about my work? Take a look at my personal portfolio to see my latest pro
   <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart"/>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp"/>
   <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
